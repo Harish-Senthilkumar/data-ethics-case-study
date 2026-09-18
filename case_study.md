@@ -46,11 +46,16 @@ The system learned that male and their attributes correlated highly with higher 
 ## 3. Author Analysis and Mitigation Framework
 
 ### Personal Reflection and Academic Citations
+Removing all features such as gender or anything relative to gender doesn't make the model fair and can lead to a skew, because algorithms are built to find hidden patterns. Those gender featuures are necessary to make additional statistical pattern recognition. When obvious demographic fields are deleted, the model uses other clues like extracurriculars or education as proxy/substitute variable to replce the missing information.
+
+Traditional software engineering and data science process errors cause immediate code breakdowns that are easy to spot because of the compiler, but historical dataset bias is completly invincible to that standard error log and it just automates with the remainign data(including human discrimination categories).
+
+Because of these hidden factors and risks, machine learning engineers and technical statistician must execute through data audits, analysis, and fairness checks rather than treating algorithm as a default tool. AI systems should be treated as a back-up assistant rather than a go-to decision maker.
 
 ### Technical Safeguards and Applicable Recommendations
-* **Pre-Training EDA:** Perform demographic a
-* **Counterfactual Testing:**
-* **Human-in-the-Loop:**
+* **Pre-Training EDA:** Perform demographic audits on historical and past datasets to research representation gaps before selecting a appropriate model.
+* **Counterfactual Testing:** Testing models by swapping proxy features like club or university names in test samples to ensure predictions remain common and equal.
+* **Human-in-the-Loop:** Humans should always fact check the AI, need to learn to use automated tools only as an advisory tool rather than it having full control as an autonomous rejection algorithm.
 
 ---
 
