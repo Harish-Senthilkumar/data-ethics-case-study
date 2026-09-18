@@ -22,3 +22,16 @@ In 2018, details and information showed up that Amazon abandoned on internal aut
 ### Operational Mechanism 
 The machine model trained on resumes subitted to the company over a 10-year operation period. Because the technology sector had historically been dominated by males during this period, the training dataset consisted of large amount of male applicant profiles. This had a large bias.
 
+## Problem Diagram:
+    [ 10-Year Historical Resume Dataset ]
+                     │
+                     ▼
+    [ Feature Extraction Engine ]
+                     │
+                     ▼
+    [ Algorithmic Scoring Engine (1–5 Stars) ]
+                     │
+     ┌───────────────┴───────────────┐
+     ▼                               ▼
+     Male Applicants            Female Applicants
+     Standard Evaluation  |     Systematic Proxy Penalty
