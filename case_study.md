@@ -28,14 +28,14 @@ The machine model trained on resumes subitted to the company over a 10-year oper
 ## Problem Diagram:
     [ 10-Year Historical Resume Dataset ]
                      │
-                     ▼
+                     \/
     [ Feature Extraction Engine ]
                      │
-                     ▼
+                     \/
     [ Algorithmic Scoring Engine (1–5 Stars) ]
                      │
      ┌───────────────┴───────────────┐
-     ▼                               ▼
+     \/                               \/
      Male Applicants            Female Applicants
      Standard Evaluation  |     Systematic Proxy Penalty
 
