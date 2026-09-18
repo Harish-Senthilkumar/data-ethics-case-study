@@ -38,3 +38,23 @@ The machine model trained on resumes subitted to the company over a 10-year oper
      ▼                               ▼
      Male Applicants            Female Applicants
      Standard Evaluation  |     Systematic Proxy Penalty
+
+The system learned that male and their attributes correlated highly with higher hiring rate. When researchers studied this and try to remove the obvious gender variables, the model got used to the environment by penalizing resumes that contained proxy indicators, like the word *"women's"* (e.g., *"women's chess club captain"*) or graduates of all-women colleges.
+
+---
+
+## 3.
+
+## 4. References & Academic Citations
+
+1. **Primary Investigative News Report:**  
+   Dastin, J. (2018, October 10). *Amazon scraps secret AI recruiting tool that showed bias against women.* Reuters.  
+   https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G/
+
+2. **Academic Foundation on Algorithmic Disparate Impact:**  
+   Barocas, S., & Selbst, A. D. (2016). *Big Data's Disparate Impact.* California Law Review, 104(3), 671–732.  
+   https://www.californialawreview.org/print/big-datas-disparate-impact/
+
+3. **Industry Ethics Standard:**  
+   DrivenData. (n.d.). *Deon: An ethics checklist for data scientists.*  
+   https://deon.drivendata.org/
