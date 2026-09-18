@@ -43,9 +43,18 @@ The system learned that male and their attributes correlated highly with higher 
 
 ---
 
-## 3.
+## 3. Author Analysis and Mitigation Framework
 
-## 4. References & Academic Citations
+### Personal Reflection and Academic Citations
+
+### Technical Safeguards and Applicable Recommendations
+* **Pre-Training EDA:** Perform demographic a
+* **Counterfactual Testing:**
+* **Human-in-the-Loop:**
+
+---
+
+## 4. References and Academic Citations
 
 1. **Primary Investigative News Report:**  
    Dastin, J. (2018, October 10). *Amazon scraps secret AI recruiting tool that showed bias against women.* Reuters.  
