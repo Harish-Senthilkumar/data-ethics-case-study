@@ -1,5 +1,8 @@
 # Data Ethics Case Study: Historical Bias in Automated Recruitment
+--------------------------------------------
 > **Notice:** Data Ethics Case Study © 2026 by Harish Senthilkumar is licensed under Creative Commons Attribution-NoDerivatives 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
+--------------------------------------------
+
 **Author:** Harish Senthilkumar
 **Date:** September 2026
 **License:** CC-BY-4.0
